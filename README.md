@@ -1,9 +1,11 @@
 # IBM_SME_Nov2022
 #Day1-9th November 2022-Data Source
+
 Data Source Link: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
 
 
 #DAY 2-10th November 2022 Workflow
+
 A Workflow is defined as a sequence of tasks that processes data through a specific path from initiation to completion.
 
 I learnt and worked on Alteryx powered by Trifacta Alteryx : Self-Service Analytics, Data Science & Automation tool which is designed for analysts to explore, transform, and enrich raw data into clean and structured formats.
