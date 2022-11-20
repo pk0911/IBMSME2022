@@ -15,6 +15,9 @@ I analyzed the dataset of Sales Analysis of Boats having 10 columns and 9889 row
 
 The first step of my analysis was to review data and search for any missing values and remove them inorder to get the most suitable and accurate outcome. Then by performing some basic calculations, I calculated the popularity and size of the boats.
 
+![Screenshot (256)](https://user-images.githubusercontent.com/92536505/202913646-fe237b40-aac8-476a-8422-bf2f8a6fbdce.png)
+
+
 ## DAY 3 11th November 2022 Data Visualization
 
 
