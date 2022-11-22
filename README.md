@@ -20,6 +20,6 @@ The first step of my analysis was to review data and search for any missing valu
 
 ## DAY 3 11th November 2022 Data Visualization
 
-Utilized the idea of data visualization and storytelling to depict the above workflow in graphical manner. Used tools like Zoho analytics 
+Utilized the idea of data visualization and storytelling to depict the above workflow in graphical manner. Used tools like Zoho analytics to produce attractive graphs
 
 
